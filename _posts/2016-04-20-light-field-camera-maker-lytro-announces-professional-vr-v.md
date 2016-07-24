@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T16:28:08.968Z'
+datePublished: '2016-07-24T16:29:15.401Z'
 sourcePath: >-
   _posts/2016-04-20-light-field-camera-maker-lytro-announces-professional-vr-v.md
 inFeed: true
@@ -23,7 +23,7 @@ author:
     url: 'http://www.theverge.com/users/adirobertson'
     avatar: {}
 via: {}
-dateModified: '2016-07-24T16:28:08.429Z'
+dateModified: '2016-07-24T16:29:14.625Z'
 title: '''Light field'' camera maker Lytro announces professional VR video rig'
 app_links: []
 publisher:
@@ -40,6 +40,6 @@ _type: MediaObject
 
 ---
 In The Back
-![Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/036fb63a54482b2cdbc4936adc400d5f/croprotate.jpg?cropheight=2593&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5a6ce7eb-cb78-41a6-b288-97b9204c6333.jpg&x=0&y=0)
+![Backyard photography of a juvenile female cardinal.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c2aa3ed72f29e4834b2b0d79465f2427a0e3ed1.jpg)
 
 Backyard photography of a juvenile female cardinal.
