@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T00:56:41.853Z'
+datePublished: '2016-07-24T16:27:18.879Z'
 sourcePath: >-
   _posts/2016-04-20-light-field-camera-maker-lytro-announces-professional-vr-v.md
 inFeed: true
@@ -22,7 +22,8 @@ author:
   - name: Adi Robertson
     url: 'http://www.theverge.com/users/adirobertson'
     avatar: {}
-dateModified: '2016-07-19T00:56:40.912Z'
+via: {}
+dateModified: '2016-07-24T16:27:17.745Z'
 title: '''Light field'' camera maker Lytro announces professional VR video rig'
 app_links: []
 publisher:
@@ -30,11 +31,7 @@ publisher:
   name: The Verge
   favicon: 'https://cdn0.vox-cdn.com/images/verge/favicon.v86bfa84.ico'
   domain: www.theverge.com
-description: >-
-  Camera maker Lytro drew our attention three years ago with what it called
-  "light field" photography. Instead of focusing at a specific depth, its camera
-  would capture everything in range of its finder, so you could do things like
-  pick a focus after taking the picture.
+description: 'Backyard photography of a juvenile female cardinal. '
 inLanguage: en
 inNav: false
 starred: false
@@ -42,4 +39,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://cdn2.vox-cdn.com/thumbor/coa6r2TY3lum-A4sKovYI9akKr0=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4232179/Lytro_Immerge_Coast.0.jpg" /></article>
+![Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/036fb63a54482b2cdbc4936adc400d5f/croprotate.jpg?cropheight=2593&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5a6ce7eb-cb78-41a6-b288-97b9204c6333.jpg&x=0&y=0)
+
+Backyard photography of a juvenile female cardinal.
