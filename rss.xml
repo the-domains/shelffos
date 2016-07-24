@@ -4,11 +4,18 @@
         <description><![CDATA[ShelffoS]]></description>
         <link>https://thegrid.ai/shelffos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 14:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 16:27:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shelffos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
+            <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Backyard photography of a juvenile female cardinal. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/036fb63a54482b2cdbc4936adc400d5f/croprotate.jpg?cropheight=2593&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5a6ce7eb-cb78-41a6-b288-97b9204c6333.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
+            <guid isPermaLink="false">f2dd57ca-071b-4bcb-8505-787e695ea50b</guid>
+            <pubDate>Sun, 24 Jul 2016 16:27:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Appalachian Trail]]></title>
-            <description><![CDATA[<article><h1>The Appalachian Trail</h1><p>The Appalachian trail crosses these tracks and going north crosses through a cow pasture and then up some serious hills. Going south it is a bit flatter for a while until you get into Stokes State Forest where your climb is rewarded by a top of the ridge view of some Sussex county lakes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f15088aecd9fda7e0e6d5ee18645da6c/croprotate.jpg?cropheight=2593&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2bb81dd1-5b28-4478-9edc-98bf69dfb82d.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>The Appalachian Trail</h1><p>The Appalachian trail crosses these tracks and going north crosses through a cow pasture and then up some serious hills. Going south it is a bit flatter for a while until you get into Stokes State Forest where your climb is rewarded by a top of the ridge view of some Sussex county lakes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/706320e1ec8716b1d25937b30992b7aa/croprotate.jpg?cropheight=9804&cropwidth=14641&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F133fa3e7c542844004ed1a3607cb47bfc0c119fe.jpg&x=0&y=0"></article>]]></description>
             <link>http://travelaway.me/sleep-beneath-stars-italian-alps/</link>
             <guid isPermaLink="false">3a29470b-df93-4627-a852-5cd87e90b2b7</guid>
             <pubDate>Sun, 24 Jul 2016 14:39:58 GMT</pubDate>
@@ -25,13 +32,6 @@
             <description><![CDATA[<article><h1>Inside the Stunning Mansion in Ex Machina</h1><p>There are many stunning, otherworldly sights in Ex Machina, the science-fiction film directed by Alex Garland that features a robot so lifelike she's played by actress Alicia Vikander. But the most breathtaking sight of all may be the 100 percent real, available-for-a-night's-stay location where the film is set: the Juvet Landscape Hotel in Norway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/681669ff82d513a623869d49c9b8fe8ee3c88229.jpg"></article>]]></description>
             <link>http://www.vanityfair.com/hollywood/2015/04/ex-machina-location</link>
             <guid isPermaLink="false">a0a70f60-66de-4a72-b47f-0b39cfeb6d3b</guid>
-            <pubDate>Tue, 19 Jul 2016 00:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
-            <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
-            <guid isPermaLink="false">f2dd57ca-071b-4bcb-8505-787e695ea50b</guid>
             <pubDate>Tue, 19 Jul 2016 00:56:41 GMT</pubDate>
         </item>
     </channel>
