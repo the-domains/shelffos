@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T14:39:58.451Z'
+datePublished: '2016-08-14T15:22:51.387Z'
 sourcePath: >-
   _posts/2016-04-15-sleep-beneath-the-stars-in-the-italian-alps-or-travel-away.md
 inFeed: true
@@ -22,8 +22,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-24T14:39:57.674Z'
-title: The Appalachian Trail
+dateModified: '2016-08-14T15:22:50.421Z'
+title: N.J. Whitetail Spike buck in the Spring
 app_links: []
 publisher:
   name: Travel Away
@@ -43,7 +43,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# The Appalachian Trail
-![The Appalachian trail crosses these tracks and going north crosses through a cow pasture and then up some serious hills. Going south it is a bit flatter for a while until you get into Stokes State Forest where your climb is rewarded by a top of the ridge view of some Sussex county lakes.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f15088aecd9fda7e0e6d5ee18645da6c/croprotate.jpg?cropheight=2593&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2bb81dd1-5b28-4478-9edc-98bf69dfb82d.jpg&x=0&y=0)
+# N.J. Whitetail Spike buck in the Spring
+![The Appalachian trail crosses these tracks and going north crosses through a cow pasture and then up some serious hills. Going south it is a bit flatter for a while until you get into Stokes State Forest where your climb is rewarded by a top of the ridge view of some Sussex county lakes.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c97a7a1f3257d2736fd06288fc5628257026358a.jpg)
 
 The Appalachian trail crosses these tracks and going north crosses through a cow pasture and then up some serious hills. Going south it is a bit flatter for a while until you get into Stokes State Forest where your climb is rewarded by a top of the ridge view of some Sussex county lakes.
